@@ -60,7 +60,7 @@ a.navbar-link:hover {
 .block1 {
     display: flex;
     width: 100%;
-    background: url(../img/2.jpg) center no-repeat;
+    background: url(img/2.jpg) center no-repeat;
     background-size: cover;
     flex-direction: column;
     border-bottom: 4px double rgb(0, 0, 0) ;
@@ -297,7 +297,7 @@ span {
 .block12 {
     display: flex;
     width: 100%;
-    background: url(../img/2.jpg) center no-repeat;
+    background: url(img/2.jpg) center no-repeat;
     background-size: cover;
     flex-direction: column;
     border-top: 4px double rgb(0, 0, 0) ;
